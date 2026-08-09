@@ -1,0 +1,16 @@
+# Inventory System Refactoring - Requirements
+# ENGSE225 / ENGSE202 - Phase 2
+ 
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+ 
+# Code Quality
+flake8==6.1.0
+pylint==3.0.2
+ 
+# Database (Phase 3 - SQLite)
+# sqlite3 is built-in Python, no install needed
+ 
+# Utilities
+python-dotenv==1.0.0
